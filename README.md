@@ -1,0 +1,2 @@
+# BankCLassificationSDAIA
+The goal of this project was to use classification models to predict if a client subscribe to the bank term deposit or not. The data is related with direct marketing campaigns of a banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
